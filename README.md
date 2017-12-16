@@ -3,7 +3,7 @@
 
 - [Lab 1]: Inode Manager
 - [Lab 2]: Basic File Server
-- [Lab 3]: RPC
+- [Lab 3][Lab 3]: RPC
 - [Lab 4]: Lock Server
 - [Lab 5]: Log-based Version Control
 - [Lab 6]: Paxos Protocol
