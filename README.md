@@ -1,5 +1,5 @@
 ## lab-cse
-[![target](https://img.shields.io/badge/labs-7/8-brightgreen.svg)](https://github.com/rudeigerc/lab-cse)
+[![target](https://img.shields.io/badge/labs-7/7-brightgreen.svg)](https://github.com/rudeigerc/lab-cse)
 
 - [Lab 1]: Inode Manager
 - [Lab 2]: Basic File Server
